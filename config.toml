@@ -1,3 +1,17 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "http://hack-the-crisis-for-food-culture.example.com"
+
+languageCode = "ja-jp"
+DefaultContentLanguage = "ja"
+title = "Hack the Crisis for Food Culture"
+theme = "ace-documentation"
+hasCJKLanguage = "true"
+
+[[menu.shortcuts]]
+name = "ハッカソンサイト"
+url = "https://retty.connpass.com/event/174847/"
+weight = 1
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i>"
+url = "https://github.com/tunepolo/hack-the-crisis-for-food-culture"
+weight = 10
