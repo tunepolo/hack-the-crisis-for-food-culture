@@ -3,15 +3,39 @@ baseURL = "http://hack-the-crisis-for-food-culture.example.com"
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "Hack the Crisis for Food Culture"
-theme = "ace-documentation"
+theme = "hugo-theme-techdoc"
+
 hasCJKLanguage = "true"
 
-[[menu.shortcuts]]
-name = "ハッカソンサイト"
-url = "https://retty.connpass.com/event/174847/"
-weight = 1
+[params]
+    github_repository = "https://github.com/tunepolo/hack-the-crisis-for-food-culture"
+    github_doc_repository = "https://github.com/tunepolo/hack-the-crisis-for-food-culture"
 
-[[menu.shortcuts]]
-name = "<i class='fab fa-github'></i>"
-url = "https://github.com/tunepolo/hack-the-crisis-for-food-culture"
-weight = 10
+    menu_style = "open-menu"
+
+    # Theme color
+    # See color value reference https://developer.mozilla.org/en-US/docs/Web/CSS/color
+    custom_font_color = ""
+    custom_background_color = "orange"
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Hackathon"
+        url = "https://retty.connpass.com/event/174847/"
+        weight = 2
+
+# Markup configure section
+# See https://gohugo.io/getting-started/configuration-markup/
+[markup]
+    defaultMarkdownHandler = "goldmark"
+    [markup.goldmark.renderer]
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 2
+        endLevel = 4
+        ordered = false
