@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "https://www.save-food-culture.ml/",
   "scripts": {
-    "textlint": "npx textlint content/*.md",
+    "textlint": "npx textlint content/*.md"
   },
   "repository": {
     "type": "git",
