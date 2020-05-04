@@ -23,9 +23,14 @@ hasCJKLanguage = "true"
         weight = 1
 
     [[menu.main]]
-        name = "Hackathon"
-        url = "https://retty.connpass.com/event/174847/"
-        weight = 2
+        name = "About"
+				url = "/about"
+				weight = 2
+
+    [[menu.main]]
+        name = "経産省 新型コロナウイルス関連"
+        url = "https://www.meti.go.jp/covid-19/"
+        weight = 3
 
 # Markup configure section
 # See https://gohugo.io/getting-started/configuration-markup/
