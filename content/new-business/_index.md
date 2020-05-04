@@ -23,6 +23,10 @@ weight = 2
 - [menu](https://service.menu.inc/partners/index.html)
 - [PayPayピックアップ](https://paypay.ne.jp/store/pickup/)
 
+### 助成金
+
+- 東京都 [（第234報）売上確保に向けた新たな取組を支援！～新たなサービスとして「テイクアウト」「宅配」「移動販売」を始める方への支援策～](https://www.bousai.metro.tokyo.lg.jp/taisaku/saigai/1007261/1007737.html)
+
 ### 注意事項
 
 - [飲食店テイクアウト調理の注意点チラシ](http://www.anemosu.co.jp/?p=243)

@@ -7,6 +7,8 @@ weight = 1
 
 経済産業省が飲食店経営者向けに情報をまとめたパンフレットを用意しています。
 
+{{< figure src="/images/01_inshoku_flyer.jpg" class="center" width="320" >}}
+
 - [新型コロナウイルス感染症で経営にお困りの事業者の皆様へ](https://www.meti.go.jp/covid-19/pdf/01_inshoku_flyer.pdf)
 
 ## クラウドファンディング
@@ -20,7 +22,7 @@ weight = 1
 
 個別のお店でなく、地域全体のお店に対してのクラウドファンディング事例もあります。
 
--[地域飲食応援 クラウドファンディング『みらい飯』](https://readyfor.jp/pp/miraimeshi)
+- [地域飲食応援 クラウドファンディング『みらい飯』](https://readyfor.jp/pp/miraimeshi)
 
 ## 先払い
 
