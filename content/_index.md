@@ -1,10 +1,10 @@
 +++
-title = "飲食店支援情報のまとめ"
+title = "Hack the Crisis for Food Culture - 飲食店支援情報まとめ"
 description = "飲食店支援情報のまとめサイト"
 weight = 3
 +++
 
-{{< figure src="/images/danis-lou-jfZfdQtcH6k-unsplash.jpg"
+{{< figure src="/images/home.jpg"
 				title="Photo by Danis Lou on Unsplash"
 				class="center" width="640" >}}
 
