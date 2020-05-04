@@ -1,3 +1,5 @@
+baseURL = "https://www.save-food-culture.ml/"
+
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "Hack the Crisis for Food Culture - 飲食店支援情報まとめ"
