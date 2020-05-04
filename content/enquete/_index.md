@@ -9,7 +9,7 @@ weight = 5
 ](http://www.synchro-food.co.jp/news/press/3093)
 - 2020年3月19日 [飲食店に対し新型コロナウイルスの影響をアンケート調査。6割の飲食店が売上減も「前向きな声」も多数](http://www.synchro-food.co.jp/news/press/3072)
 
-## スマレジ
+## 株式会社スマレジ
 
 - 2020年3月3日 [新型コロナウイルス感染症の店舗への影響に関するアンケート結果報告](https://smaregi.jp/news/press/20200303_survey.php)
 
