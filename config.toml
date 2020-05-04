@@ -6,6 +6,7 @@ title = "Hack the Crisis for Food Culture - 飲食店支援情報まとめ"
 theme = "hugo-theme-techdoc"
 
 hasCJKLanguage = "true"
+enableGitInfo = "true"
 
 [params]
     github_repository = "https://github.com/tunepolo/hack-the-crisis-for-food-culture"
