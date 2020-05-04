@@ -1,6 +1,6 @@
 +++
 title = "その他アイデア"
-weight = 4
+weight = 5
 +++
 
 ## 先払い
@@ -14,3 +14,7 @@ weight = 4
 Zoomなどリモート会議ツールを用いたオンライン飲み会で使いやすい背景画像を店舗で撮影し販売するものです。
 
 - [ONLINE PARTY MARKET](https://tsurezure.theshop.jp/)
+
+## 余った料理・食材の販売
+
+- [TABETE](https://apply.cocooking.co.jp/shop_join)
