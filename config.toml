@@ -4,6 +4,7 @@ languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
 title = "Hack the Crisis for Food Culture - 飲食店支援情報まとめ"
 theme = "hugo-theme-techdoc"
+googleAnalytics = "UA-165582058-1"
 
 hasCJKLanguage = "true"
 enableGitInfo = "true"
