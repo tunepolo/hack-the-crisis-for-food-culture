@@ -2,7 +2,7 @@ baseURL = "https://www.save-food-culture.ml/"
 
 languageCode = "ja-jp"
 DefaultContentLanguage = "ja"
-title = "Hack the Crisis for Food Culture - 飲食店支援情報まとめ"
+title = "Save Food Culture - 飲食店支援情報まとめ"
 theme = "hugo-theme-techdoc"
 googleAnalytics = "UA-165582058-1"
 
@@ -14,6 +14,10 @@ enableGitInfo = "true"
     github_doc_repository = "https://github.com/tunepolo/hack-the-crisis-for-food-culture"
 
     menu_style = "open-menu"
+
+		# OGP setting
+		title = "Save Food Culture"
+		images = ["images/home.jpg"]
 
     # Theme color
     # See color value reference https://developer.mozilla.org/en-US/docs/Web/CSS/color
