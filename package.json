@@ -4,6 +4,7 @@
   "description": "https://www.save-food-culture.ml/",
   "scripts": {
     "textlint": "npx textlint content/*.md",
+    "textlint:fix": "npx textlint --fix content/*.md"
   },
   "repository": {
     "type": "git",
