@@ -1,6 +1,6 @@
 +++
-title = "Hack the Crisis for Food Culture - 飲食店支援情報まとめ"
-description = "飲食店支援情報のまとめサイト"
+title = "Hack the Crisis for Food Culture - 飲食店の支援情報まとめ"
+description = "飲食店の支援情報まとめサイト"
 +++
 
 {{< figure src="/images/home.jpg"
