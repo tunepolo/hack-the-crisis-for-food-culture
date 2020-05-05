@@ -19,7 +19,7 @@ weight = 1
 
 ### Web/スマホからの事前注文・決済サービス
 
-活用することでお客を待たせることなく、スムーズに捌けるかもしれません。
+活用することでお客を待たせることなく、スムーズに捌けます。
 
 - [LINEポケオ](https://pockeo.line.me/)
 - [PICKS](https://picks.fun/PicksforPartners/)
