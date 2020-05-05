@@ -5,7 +5,7 @@ weight = 1
 
 ## Google マイビジネス
 
-Google マイビジネス プロフィールを更新することで、Google検索とGoogleマップ両方に更新情報を表示することができます。
+Google マイビジネス プロフィールを更新することで、Google検索とGoogleマップ両方に更新情報を表示できます。
 
 - [Google マイビジネス ヘルプ - COVID-19（新型コロナウイルス感染症）の影響を受けている飲食店](https://support.google.com/business/answer/9805441?hl=ja)
 - [Google マイビジネス上で最新情報を掲載する方法](https://forjapan.withgoogle.com/static/pdf/GMB.pdf)

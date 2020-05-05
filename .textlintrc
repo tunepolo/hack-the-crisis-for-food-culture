@@ -1,0 +1,14 @@
+{
+  "filters": {
+    "whitelist": {
+      "allow": [
+				"/^\\+{3}[\\s\\S]*?\\+{3}/m",
+				"/^{{％[\\s\\S]*?％}}/m"
+      ]
+    },
+		"comments": true
+  },
+	"rules": {
+    "preset-ja-technical-writing": true
+  }
+}
