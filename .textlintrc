@@ -1,5 +1,12 @@
 {
-    "rules": {
-        "preset-ja-technical-writing": true
+  "filters": {
+    "whitelist": {
+      "allow": [
+				"/^{{％[\\s\\S]*?％}}/m"
+      ]
     }
+  },
+	"rules": {
+    "preset-ja-technical-writing": true
+  }
 }

@@ -1,24 +1,25 @@
 {
-  "name": "hack-the-crisis-for-food-culture",
-  "version": "1.0.0",
-  "description": "https://www.save-food-culture.ml/",
-  "scripts": {
-    "textlint": "npx textlint content/*.md",
-    "textlint:fix": "npx textlint --fix content/*.md"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://www.save-food-culture.ml/"
-  },
-  "keywords": [],
-  "author": "Yuichi Tsunematsu",
-  "bugs": {
-    "url": "https://github.com/tunepolo/hack-the-crisis-for-food-culture/issues"
-  },
-  "homepage": "https://github.com/tunepolo/hack-the-crisis-for-food-culture#readme",
-  "devDependencies": {
-    "editorconfig-checker": "^3.0.4",
-    "textlint": "^11.6.3",
-    "textlint-rule-preset-ja-technical-writing": "^3.1.3"
-  }
+	"name": "hack-the-crisis-for-food-culture",
+	"version": "1.0.0",
+	"description": "https://www.save-food-culture.ml/",
+	"scripts": {
+		"textlint": "npx textlint content/**/*.md",
+		"textlint:fix": "npx textlint --fix content/**/*.md"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://www.save-food-culture.ml/"
+	},
+	"keywords": [],
+	"author": "Yuichi Tsunematsu",
+	"bugs": {
+		"url": "https://github.com/tunepolo/hack-the-crisis-for-food-culture/issues"
+	},
+	"homepage": "https://github.com/tunepolo/hack-the-crisis-for-food-culture#readme",
+	"devDependencies": {
+		"editorconfig-checker": "^3.0.4",
+		"textlint": "^11.6.3",
+		"textlint-filter-rule-whitelist": "^2.0.0",
+		"textlint-rule-preset-ja-technical-writing": "^3.1.3"
+	}
 }
