@@ -18,7 +18,7 @@
 	},
 	"homepage": "https://github.com/tunepolo/hack-the-crisis-for-food-culture#readme",
 	"devDependencies": {
-		"editorconfig-checker": "^3.2.0",
+		"editorconfig-checker": "^3.3.0",
 		"textlint": "^11.8.1",
 		"textlint-filter-rule-comments": "^1.2.2",
 		"textlint-filter-rule-whitelist": "^2.0.0",
