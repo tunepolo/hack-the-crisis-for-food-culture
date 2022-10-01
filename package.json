@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/tunepolo/hack-the-crisis-for-food-culture#readme",
 	"devDependencies": {
 		"editorconfig-checker": "^4.0.2",
-		"textlint": "^12.2.1",
+		"textlint": "^12.2.2",
 		"textlint-filter-rule-comments": "^1.2.2",
 		"textlint-filter-rule-whitelist": "^2.0.0",
 		"textlint-rule-preset-ja-technical-writing": "^7.0.0"
